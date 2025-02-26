@@ -61,7 +61,7 @@ export const teamMembers = [
     position: 'Senior Prosthetist-Orthotist',
     image: 'https://via.placeholder.com/300x300?text=Maria+Rodriguez',
     shortBio: 'Maria specializes in pediatric prosthetics and orthotics, bringing creativity and compassion to help our youngest patients thrive.',
-    fullBio: 'Maria Rodriguez has been with Aero Prosthetics since its founding, specializing in pediatric care. Her approach combines technical expertise with a natural ability to connect with children, helping them adapt to and embrace their devices. Maria is bilingual in English and Spanish, allowing her to better serve our diverse patient population. She leads our pediatric program, working closely with children's hospitals and schools to ensure comprehensive care. Maria is known for her creative solutions that address not only functional needs but also the unique concerns of growing children.',
+    fullBio: 'Maria Rodriguez has been with Aero Prosthetics since its founding, specializing in pediatric care. Her approach combines technical expertise with a natural ability to connect with children, helping them adapt to and embrace their devices. Maria is bilingual in English and Spanish, allowing her to better serve our diverse patient population. She leads our pediatric program, working closely with children\'s hospitals and schools to ensure comprehensive care. Maria is known for her creative solutions that address not only functional needs but also the unique concerns of growing children.',
     education: [
       'Master of Science in Prosthetics and Orthotics, University of Texas Southwestern Medical Center',
       'Bachelor of Science in Kinesiology, University of California, Los Angeles',
