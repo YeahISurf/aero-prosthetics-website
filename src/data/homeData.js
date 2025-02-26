@@ -26,7 +26,7 @@ export const differenceItems = [
   {
     id: 4,
     title: 'Comprehensive Support',
-    description: 'From initial consultation through ongoing adjustments, we're with you every step of the way.',
+    description: 'From initial consultation through ongoing adjustments, we\'re with you every step of the way.',
     icon: <FaTools />,
     link: '/services'
   }
@@ -83,7 +83,7 @@ export const testimonials = [
     name: 'Michael Johnson',
     service: 'Lower Limb Prosthetic User',
     image: 'https://via.placeholder.com/150?text=MJ',
-    quote: 'After my accident, I never thought I'd run again. The team at Aero Prosthetics not only got me walking comfortably but helped me train for and complete a 5K race. Their expertise and encouragement changed my life.'
+    quote: 'After my accident, I never thought I\'d run again. The team at Aero Prosthetics not only got me walking comfortably but helped me train for and complete a 5K race. Their expertise and encouragement changed my life.'
   },
   {
     id: 2,
@@ -104,7 +104,7 @@ export const testimonials = [
     name: 'Jennifer Lee',
     service: 'Parent of Pediatric Patient',
     image: 'https://via.placeholder.com/150?text=JL',
-    quote: 'Finding proper care for my daughter was overwhelming until we discovered Aero Prosthetics. Their pediatric specialists made her feel comfortable and confident. They've adjusted her prosthesis as she's grown, always ensuring perfect fit and function.'
+    quote: 'Finding proper care for my daughter was overwhelming until we discovered Aero Prosthetics. Their pediatric specialists made her feel comfortable and confident. They\'ve adjusted her prosthesis as she\'s grown, always ensuring perfect fit and function.'
   },
   {
     id: 5,
